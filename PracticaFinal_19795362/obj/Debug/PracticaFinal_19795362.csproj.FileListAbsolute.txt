@@ -1,0 +1,10 @@
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.FormRegistroAspirantes.resources
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\bin\Debug\PracticaFinal_19795362.exe.config
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\bin\Debug\PracticaFinal_19795362.exe
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\bin\Debug\PracticaFinal_19795362.pdb
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.exe
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.pdb
+C:\Users\rodri\source\repos\PracticaFinal_19795362\PracticaFinal_19795362\obj\Debug\PracticaFinal_19795362.exe.config
