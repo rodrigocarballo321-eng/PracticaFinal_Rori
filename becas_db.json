@@ -1,0 +1,58 @@
+{
+    "tipos_beca": [
+        {
+            "id": 1,
+            "nombre": "Universitaria",
+            "monto": 100,
+            "activo": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Técnica",
+            "monto": 75,
+            "activo": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Bachillerato",
+            "monto": 50,
+            "activo": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Deportiva",
+            "monto": 120,
+            "activo": 1
+        }
+    ],
+    "aspirantes": [
+        {
+            "id": 1,
+            "dui": "07357823-4",
+            "nombres": "Rodrigo",
+            "apellidos": "Carballo",
+            "fecha_nacimiento": "2007-01-12",
+            "sexo": "M",
+            "telefono": "6443-1882",
+            "correo": "19795362@clases.edu.sv",
+            "institucion_estudio": "INDEL",
+            "promedio": 9,
+            "ingreso_familiar": 405,
+            "id_tipo": 1
+        },
+        {
+            "id": 2,
+            "dui": "07357723-4",
+            "nombres": "Rodrigo",
+            "apellidos": "Carballo",
+            "fecha_nacimiento": "2007-01-12",
+            "sexo": "M",
+            "telefono": "6443-1882",
+            "correo": "19795362@clases.edu.sv",
+            "institucion_estudio": "INDEL",
+            "promedio": 9,
+            "ingreso_familiar": 405,
+            "id_tipo": 1
+        }
+    ]
+}
